@@ -1,0 +1,97 @@
+
+GitHub GitHub
+
+    Explore
+    Gist
+    Blog
+    Help
+
+puresteelzhang
+
+    1
+
+public puresteelzhang / zhaoyouyou
+
+    Code
+    Network
+    Pull Requests 0
+    Issues 0
+    Wiki
+    Graphs
+
+Global setup:
+
+ Set up git
+  git config --global user.name "Your Name"
+  git config --global user.email puresteel.zhang@gmail.com
+Add your public key
+      
+
+Next steps:
+
+  mkdir zhaoyouyou
+  cd zhaoyouyou
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin https://github.com/puresteelzhang/zhaoyouyou.git
+  git push -u origin master
+      
+
+Existing Git Repo?
+
+  cd existing_git_repo
+  git remote add origin https://github.com/puresteelzhang/zhaoyouyou.git
+  git push -u origin master
+      
+
+Importing a Subversion Repo?
+
+  Check out the guide for step by step instructions.
+      
+
+When you're done:
+
+  Continue
+
+GitHub Links
+
+    GitHub
+    About
+    Blog
+    Features
+    Contact & Support
+    Training
+    GitHub Enterprise
+    Site Status
+
+    Clients
+    GitHub for Mac
+    GitHub for Windows
+    GitHub for Eclipse
+    GitHub Mobile Apps
+
+    Tools
+    Gauges: Web analytics
+    Speaker Deck: Presentations
+    Gist: Code snippets
+    Extras
+    Job Board
+    GitHub Shop
+    The Octodex
+
+    Documentation
+    GitHub Help
+    Developer API
+    GitHub Flavored Markdown
+    GitHub Pages
+
+    Terms of Service
+    Privacy
+    Security
+
+© 2012 GitHub Inc. All rights reserved.
+Dedicated Server Powered by the Dedicated Servers and
+Cloud Computing of Rackspace Hosting®
+
